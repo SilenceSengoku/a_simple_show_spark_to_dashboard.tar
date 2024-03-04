@@ -9,5 +9,5 @@
 
 #mysql 5.7 
 实例图，电影数据气泡图
-https://github.com/SilenceSengoku/a_simple_show_spark_to_dashboard.tar/edit/main/README.md
+
 <img src="https://github.com/SilenceSengoku/a_simple_show_spark_to_dashboard.tar/images/ads_for_bubble_chart.png">
