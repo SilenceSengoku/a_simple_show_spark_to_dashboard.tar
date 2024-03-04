@@ -6,7 +6,5 @@
 #system: Ubuntu 16.04.7 LTS (GNU/Linux 4.4.0-210-generic i686)
 
 #python:3.10
-<br/>  
-<br/>  
 
 #mysql 5.7 
