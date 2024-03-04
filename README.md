@@ -11,3 +11,6 @@
 实例图，电影数据气泡图
 
 <img src="https://github.com/SilenceSengoku/a_simple_show_spark_to_dashboard.tar/blob/main/images/ads_for_bubble_chart.png">
+
+project目录下是完整项目，如果要运行需要调整路径和账密
+show_dashboard 是上图样本数据和代码
